@@ -57,7 +57,7 @@ El microservicio ofrece varias rutas para consultar el clima de distintas ciudad
 
 Para obtener el clima de una ciudad específica:
 
-```bash
+``bash
 GET http://localhost:3000/weather/London
 
 Esto devolverá un objeto JSON con la información meteorológica de Londres.
@@ -86,4 +86,4 @@ NestJS: Framework principal para construir el microservicio.
 Axios: Cliente HTTP para realizar solicitudes a una API de clima.
 TypeScript: Lenguaje de programación utilizado para un código más mantenible y escalable.
 Despliegue
-Este microservicio puede ser fácilmente desplegado en cualquier entorno compatible con Node.js y ofrece una API robusta para obtener y administrar información meteorológica.
+Este microservicio puede ser fácilmente desplegado en cualquier entorno compatible con Node.js y ofrece una API robusta para obtener y administrar información meteorológica.``
